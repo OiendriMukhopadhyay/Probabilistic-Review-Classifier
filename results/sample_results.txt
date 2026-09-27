@@ -1,0 +1,13 @@
+Sample simulation
+==================
+Alpha: [0.8, 0.7, 0.9]
+Beta:  [0.2, 0.3, 0.1]
+Positive reviews: 1000
+Negative reviews: 1000
+Seed: 42
+
+Positive correct: 904/1000
+Negative correct: 92/1000
+Positive accuracy: 90.40%
+Negative accuracy: 9.20%
+Overall accuracy:  49.80%
