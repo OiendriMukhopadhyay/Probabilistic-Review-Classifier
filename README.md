@@ -127,6 +127,6 @@ dataset, and it does not perform natural-language processing on review text.
 
 ## Author
 
-**Banasree Maji**
+**Oiendri Mukhopadhyay**
 
 B.Tech in Computer Science & Engineering
